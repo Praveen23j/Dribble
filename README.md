@@ -1,6 +1,6 @@
 # Project Responsive Web Design using Bootstrap
 ## Date:
-24-12-24
+25-12-24
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -40,7 +40,7 @@ Publish the website in the LocalHost.
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">ShopEasy</a>
+            <a class="navbar-brand" href="#">Classic Curves</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -66,7 +66,7 @@ Publish the website in the LocalHost.
     <!-- Hero Section -->
     <div class="bg-light text-center py-5">
         <div class="container">
-            <h1 class="display-4">Welcome to ShopEasy</h1>
+            <h1 class="display-4">Welcome to Classic Curves</h1>
             <p class="lead">Your one-stop shop for all your needs</p>
             <a href="#products" class="btn btn-primary btn-lg">Shop Now</a>
         </div>
@@ -79,30 +79,30 @@ Publish the website in the LocalHost.
             <div class="row g-4">
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="WMNS+AIR+JORDAN+1+MID (1).jpg" class="card-img-top" alt="Product 1">
+                        <img src="Watch-1.jpeg" class="card-img-top" alt="Product 1">
                         <div class="card-body">
                             <h5 class="card-title">Product 1</h5>
-                            <p class="card-text">Air Jordan 1 Mid Oxidised Green colourway</p>
+                            <p class="card-text">Rolex Day Date Platinum.</p>
                             <a href="#" class="btn btn-primary">Buy Now</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="WMNS+AIR+JORDAN+1+MID.jpg" class="card-img-top" alt="Product 2">
+                        <img src="Watch-2.jpeg" class="card-img-top" alt="Product 2">
                         <div class="card-body">
                             <h5 class="card-title">Product 2</h5>
-                            <p class="card-text">Air Jordan 1 Mid Sail colourway</p>
+                            <p class="card-text">Patek Philippe Tiffany.</p>
                             <a href="#" class="btn btn-primary">Buy Now</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="NIKE+INITIATOR.png" class="card-img-top" alt="Product 3">
+                        <img src="Watch-3.jpeg" class="card-img-top" alt="Product 3">
                         <div class="card-body">
                             <h5 class="card-title">Product 3</h5>
-                            <p class="card-text">Nike Initiator Men's Shoes.</p>
+                            <p class="card-text">Olevs Tourbillon.</p>
                             <a href="#" class="btn btn-primary">Buy Now</a>
                         </div>
                     </div>
@@ -115,7 +115,7 @@ Publish the website in the LocalHost.
     <div id="about" class="py-5 bg-light">
         <div class="container">
             <h2 class="text-center mb-4">About Us</h2>
-            <p class="text-center">ShopEasy is dedicated to providing top-quality products at affordable prices. Our mission is to make shopping simple, convenient, and enjoyable for everyone. With a wide range of products to choose from, we strive to meet all your needs in one place.</p>
+            <p class="text-center">Classic Curves is dedicated to providing top-quality products at affordable prices. Our mission is to make shopping simple, convenient, and enjoyable for everyone. With a wide range of products to choose from, we strive to meet all your needs in one place.</p>
         </div>
     </div>
 
@@ -148,7 +148,7 @@ Publish the website in the LocalHost.
 
     <!-- Footer -->
     <footer class="bg-dark text-white text-center py-3">
-        <p>Created by Simon Malachi</p>
+        <p>&copy; 2024 ROHITH J(24000942)</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
@@ -160,10 +160,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](<Screenshot (47).png>) 
-![alt text](<Screenshot (48).png>) 
-![alt text](<Screenshot (49).png>)
-
-
+![alt text](<Screenshot 2024-12-25 234026.png>)
+![alt text](<Screenshot 2024-12-25 234101.png>)
+![alt text](<Screenshot 2024-12-25 234126.png>)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
