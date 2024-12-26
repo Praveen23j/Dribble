@@ -40,7 +40,7 @@ Publish the website in the LocalHost.
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Classic Curves</a>
+            <a class="navbar-brand" href="#">joan's paradise</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -66,7 +66,7 @@ Publish the website in the LocalHost.
     <!-- Hero Section -->
     <div class="bg-light text-center py-5">
         <div class="container">
-            <h1 class="display-4">Welcome to Classic Curves</h1>
+            <h1 class="display-4">Welcome to joan's paradise</h1>
             <p class="lead">Your one-stop shop for all your needs</p>
             <a href="#products" class="btn btn-primary btn-lg">Shop Now</a>
         </div>
@@ -115,7 +115,7 @@ Publish the website in the LocalHost.
     <div id="about" class="py-5 bg-light">
         <div class="container">
             <h2 class="text-center mb-4">About Us</h2>
-            <p class="text-center">Classic Curves is dedicated to providing top-quality products at affordable prices. Our mission is to make shopping simple, convenient, and enjoyable for everyone. With a wide range of products to choose from, we strive to meet all your needs in one place.</p>
+            <p class="text-center">joan's paradise is dedicated to providing top-quality products at affordable prices. Our mission is to make shopping simple, convenient, and enjoyable for everyone. With a wide range of products to choose from, we strive to meet all your needs in one place.</p>
         </div>
     </div>
 
@@ -160,8 +160,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-25 234026.png>)
-![alt text](<Screenshot 2024-12-25 234101.png>)
-![alt text](<Screenshot 2024-12-25 234126.png>)
+![alt text](<Screenshot 2024-12-26 090911.png>)
+![alt text](<Screenshot 2024-12-26 091001.png>)
+![alt text](<Screenshot 2024-12-26 091020.png>)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
